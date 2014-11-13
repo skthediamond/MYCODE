@@ -2,4 +2,5 @@
 #include<stdio.>
 void main()
 {
+clrscr();
 }
