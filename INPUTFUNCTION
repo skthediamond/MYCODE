@@ -4,4 +4,5 @@ void main()
 {
 clrscr();
 int totalmarks=total();
+getch();
 }
