@@ -1,4 +1,4 @@
 void update()
 {
-
+printf("Data Updated");
 }
