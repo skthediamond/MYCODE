@@ -2,5 +2,6 @@ void update()
 {
 clrscr();
 printf("Data Updated");
+printf("press enter to clrear the screen");
 getch();
 }
