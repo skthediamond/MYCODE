@@ -1,3 +1,4 @@
 void display()
 {
+printf("you have passed the test");
 }
