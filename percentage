@@ -1,3 +1,5 @@
 void percentage()
 {
+clrscr();
+int num;
 }
