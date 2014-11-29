@@ -1,3 +1,5 @@
 void edit()
 {
+clrscr();
+printf("no data found");
 }
